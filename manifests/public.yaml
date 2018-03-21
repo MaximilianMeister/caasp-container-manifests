@@ -234,7 +234,7 @@ spec:
     - name: VELUM_SOCKET_NAME
       value: dashboard.sock
     - name: VELUM_WORKERS
-      value: "2"
+      value: "1"
     - name: VELUM_DB_HOST
       value:
     - name: VELUM_DB_USERNAME
